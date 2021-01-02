@@ -1,5 +1,10 @@
 {
-    "rebases": [],
+    "rebases": [{
+        "timestamp": "01/02/2021 @ 5:00pm UTC",
+        "price": 0.156,
+        "target": 0.1,
+        "rebase": "+56%"
+    }],
     "pairs": 474,
     "target": 0.10
 }
