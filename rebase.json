@@ -1,20 +1,25 @@
 {
     "rebases": [{
-        "timestamp": "01/02/2021 @ 5:00pm UTC",
+        "timestamp": "01/02/2021 @ 6:00pm UTC",
         "price": 0.156,
         "target": 0.1,
         "rebase": "+56%"
     }, {
-        "timestamp": "01/03/2021 @ 5:00pm UTC",
+        "timestamp": "01/03/2021 @ 6:00pm UTC",
         "price": 0.039,
         "target": 0.1,
         "rebase": "-61%"
     }, {
-        "timestamp": "01/04/2021 @ 5:00pm UTC",
+        "timestamp": "01/04/2021 @ 6:00pm UTC",
         "price": 0.045,
         "target": 0.1,
         "rebase": "-55%"
+    },  {
+        "timestamp": "01/05/2021 @ 6:00pm UTC",
+        "price": 0.103,
+        "target": 0.15,
+        "rebase": "-31%"
     }],
-    "pairs": 474,
-    "target": 0.152
+    "pairs": 515,
+    "target": 0.17
 }
